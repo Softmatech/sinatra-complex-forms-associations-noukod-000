@@ -40,5 +40,4 @@ end
     redirect to "pets/#{@pet.id}"
   end
 
-
 end
